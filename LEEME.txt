@@ -1,0 +1,11 @@
+LIGA DE FÚTBOL RÁPIDO POTREROS — V4
+
+NOVEDAD PRINCIPAL:
+La página permite registrar resultados directamente desde "Administrar resultados".
+Al guardar un partido, la tabla se recalcula automáticamente.
+
+IMPORTANTE:
+- Los datos iniciales son la tabla registrada previamente.
+- Los nuevos resultados se guardan en el navegador mediante localStorage.
+- Para publicar una versión con datos compartidos para todos los usuarios, el siguiente paso es conectar una base de datos/servicio web.
+- Para probar: abre index.html en Chrome y baja a "Administrar resultados".
